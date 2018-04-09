@@ -18,13 +18,15 @@ def dataToCategorizedArrays():
     vegetableindex = all.index("VEGETABLES")
     herbspicecindex = all.index("HERBS AND SPICES")
     fruitindex = all.index("FRUITS")
+    dairyindex = all.index("DAIRY PRODUCTS")
 
 
     vegetables = all[vegetableindex:herbspicecindex]
     herbsspices = all[herbspicecindex:fruitindex]
-    fruits = all[fruitindex:]
+    fruits = all[fruitindex:dairyindex]
+    dairy = all[dairyindex:]
 
-    categorizedAll = vegetables, herbsspices, fruits
+    categorizedAll = vegetables, herbsspices, fruits, dairy
     return categorizedAll
 
 

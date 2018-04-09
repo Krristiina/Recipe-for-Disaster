@@ -143,3 +143,46 @@ Tamarillo
 Tamarind
 Ugli fruit
 Yuzu
+DAIRY PRODUCTS
+American Cheese
+Appenzeller
+Bergenost
+Blue cheese
+Brick Cheese
+Brie Cheese
+Butter
+Cabot
+Camembert cheese
+Campode Montalban
+Casein
+Cheddar Cheese
+Cheshire Cheese
+Colby Cheese
+Colby-Jack Cheese
+Cottage Cheese
+Cougar Gold Cheddar
+Cream Cheese
+Cup Cheese
+Drunken Goat Cheese
+Dublinger
+Edam Cheese
+Emmenthal
+Feta Cheese
+Goat Cheese
+Gorgonzola cheese
+Gouda Cheese
+Government Cheese
+Kefir
+Manchego Cheese
+Mascarpone Cheese
+Milk (skimmed)
+Milk (whole)
+Parmesan Cheese
+Pastore Sini
+Pecorino Cheese
+Pepperjack Cheese
+Yogurt (Turkish)
+Yogurt (Full fat)
+Yogurt (Greek)
+Yogurt (Low-Fat)
+Yogurt (Sugar-free)
