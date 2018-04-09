@@ -42,7 +42,7 @@ def arrayToJson(arrays):
             if array[0] not in array[array.index(item)]:
                 text = array[array.index(item)]
                 tag = array[0].lower()
-                data.append({'text': text, 'tag': tag})
+                data.append({'name': text, 'tag': tag})
 
     json_data = json.dumps(data)
     writeToFile(json_data)
